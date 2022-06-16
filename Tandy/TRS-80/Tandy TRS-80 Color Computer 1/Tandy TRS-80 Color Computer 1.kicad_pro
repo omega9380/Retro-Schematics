@@ -31,7 +31,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "__Retro_Schematics_Library"
+    ]
   },
   "meta": {
     "filename": "Tandy TRS-80 Color Computer 1.kicad_pro",
