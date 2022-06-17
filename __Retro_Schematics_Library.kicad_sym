@@ -345,7 +345,7 @@
     (property "Footprint" "Package_DIP:DIP-24_W15.24mm_Socket_LongPads" (id 2) (at 11.43 -21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 11.43 -21.59 0)
+    (property "Datasheet" "https://github.com/omega9380/Retro-Schematics/raw/main/Tandy/TRS-80/Tandy%20TRS-80%20Color%20Computer%201/Documents/MCM68A364%20Datasheet.pdf" (id 3) (at 11.43 -21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "MCM68A364_0_1"
