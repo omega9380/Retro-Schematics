@@ -1574,6 +1574,10 @@
       )
     )
     (symbol "LM339_5_1"
+      (rectangle (start -4.445 3.81) (end -0.635 -3.81)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (pin power_in line (at -2.54 -7.62 90) (length 3.81)
         (name "V-" (effects (font (size 1.27 1.27))))
         (number "12" (effects (font (size 1.27 1.27))))
