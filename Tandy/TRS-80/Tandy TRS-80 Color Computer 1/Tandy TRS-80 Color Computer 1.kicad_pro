@@ -236,9 +236,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "__Retro_Schematics_Library"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "Tandy TRS-80 Color Computer 1.kicad_pro",
@@ -312,7 +310,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "D:/Documents/GitHub/Retro-Schematics/PDF Schematics/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
