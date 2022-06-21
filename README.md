@@ -9,6 +9,10 @@ My goal is to recreate the computer schematics as closely as the original diagra
 
 I will come straight to the point and say I suck at board design, but have become pretty good at symbol and schematic creation in KiCAD.  The goal of this repo is to provide the commuity a one-stop shop for schmatics for fixing thier old retro PCs.  And anyone can clone the repos and use the schematics to make thier own board designs (ATX format Commodore 64, anyone), or use these parts libraries to create addons that help the whole community enjoy thier classic computers and peripherals.
 
+
+PDF versions of all schematics will be placed under "PDF Schematics" for those who don't want to install KiCAD.  The KiCAD projects will be under thier folders, seperated by company and device.
+
+
 Note please that I am one guy, doing this on my own time.  So please don't expect that "one stop shop" to be available tomorrow!
 
 If you like what I'm doing and want to help out, please branch and add to the repo if you have the skill, time, and inclination!
