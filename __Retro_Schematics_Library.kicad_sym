@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
-  (symbol "4PTD_SWITCH" (in_bom yes) (on_board yes)
+  (symbol "CC1_4PTD_SWITCH" (in_bom yes) (on_board yes)
     (property "Reference" "S" (id 0) (at 3.81 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "4PTD_SWITCH" (id 1) (at 3.81 3.81 0)
+    (property "Value" "CC1_4PTD_SWITCH" (id 1) (at 3.81 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 3.81 1.27 0)
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (id 3) (at 3.81 1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "4PTD_SWITCH_0_0"
+    (symbol "CC1_4PTD_SWITCH_0_0"
       (polyline
         (pts
           (xy 1.778 -14.986)
@@ -78,7 +78,7 @@
         (fill (type none))
       )
     )
-    (symbol "4PTD_SWITCH_0_1"
+    (symbol "CC1_4PTD_SWITCH_0_1"
       (polyline
         (pts
           (xy 0 -15.24)
@@ -220,7 +220,7 @@
         (fill (type background))
       )
     )
-    (symbol "4PTD_SWITCH_1_1"
+    (symbol "CC1_4PTD_SWITCH_1_1"
       (pin passive line (at -5.08 -15.24 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
@@ -255,11 +255,11 @@
       )
     )
   )
-  (symbol "723C" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+  (symbol "CC1_723C" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 10.16 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "723C" (id 1) (at 10.16 -8.89 0)
+    (property "Value" "CC1_723C" (id 1) (at 10.16 -8.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-14_W7.62mm" (id 2) (at -26.67 25.4 0)
@@ -277,13 +277,13 @@
     (property "ki_fp_filters" "DIP*W7.62mm*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "723C_0_1"
+    (symbol "CC1_723C_0_1"
       (rectangle (start 0 0) (end 20.32 -20.32)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "723C_1_1"
+    (symbol "CC1_723C_1_1"
       (pin no_connect line (at -7.62 -25.4 0) (length 5.08) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -342,11 +342,11 @@
       )
     )
   )
-  (symbol "741C" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "CC1_741C" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "741C" (id 1) (at 0 3.81 0)
+    (property "Value" "CC1_741C" (id 1) (at 0 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 1.27 1.27 0)
@@ -364,7 +364,7 @@
     (property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "741C_0_1"
+    (symbol "CC1_741C_0_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -376,7 +376,7 @@
         (fill (type background))
       )
     )
-    (symbol "741C_1_1"
+    (symbol "CC1_741C_1_1"
       (pin input line (at 0 -7.62 90) (length 5.08)
         (name "NULL" (effects (font (size 0.508 0.508))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -411,11 +411,11 @@
       )
     )
   )
-  (symbol "74LS02" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "CC1_74LS02" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS02" (id 1) (at 0 -1.27 0)
+    (property "Value" "CC1_74LS02" (id 1) (at 0 -1.27 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -436,7 +436,7 @@
     (property "ki_fp_filters" "SO14* DIP*W7.62mm*" (id 7) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "74LS02_1_1"
+    (symbol "CC1_74LS02_1_1"
       (arc (start -3.81 -3.81) (mid -2.589 0) (end -3.81 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -496,7 +496,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_1_2"
+    (symbol "CC1_74LS02_1_2"
       (arc (start 0 -3.81) (mid 3.81 0) (end 0 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -524,7 +524,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_2_1"
+    (symbol "CC1_74LS02_2_1"
       (arc (start -3.81 -3.81) (mid -2.589 0) (end -3.81 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -584,7 +584,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_2_2"
+    (symbol "CC1_74LS02_2_2"
       (arc (start 0 -3.81) (mid 3.81 0) (end 0 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -612,7 +612,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_3_1"
+    (symbol "CC1_74LS02_3_1"
       (arc (start -3.81 -3.81) (mid -2.589 0) (end -3.81 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -672,7 +672,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_3_2"
+    (symbol "CC1_74LS02_3_2"
       (arc (start 0 -3.81) (mid 3.81 0) (end 0 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -700,7 +700,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_4_1"
+    (symbol "CC1_74LS02_4_1"
       (arc (start -3.81 -3.81) (mid -2.589 0) (end -3.81 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -760,7 +760,7 @@
         (number "13" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_4_2"
+    (symbol "CC1_74LS02_4_2"
       (arc (start 0 -3.81) (mid 3.81 0) (end 0 3.81)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -788,7 +788,7 @@
         (number "13" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_5_0"
+    (symbol "CC1_74LS02_5_0"
       (pin power_in line (at 0 12.7 270) (length 5.08)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "14" (effects (font (size 1.27 1.27))))
@@ -798,18 +798,18 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS02_5_1"
+    (symbol "CC1_74LS02_5_1"
       (rectangle (start -5.08 7.62) (end 5.08 -7.62)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
   )
-  (symbol "74LS138" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "CC1_74LS138" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 10.16 -13.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS138" (id 1) (at 10.16 -11.43 0)
+    (property "Value" "CC1_74LS138" (id 1) (at 10.16 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 7.62 -10.16 0)
@@ -818,19 +818,16 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS138" (id 3) (at -26.67 20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_locked" "" (id 4) (at 0 0 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "ki_keywords" "TTL DECOD DECOD8" (id 5) (at 0 0 0)
+    (property "ki_keywords" "TTL DECOD DECOD8" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Decoder 3 to 8 active low outputs" (id 6) (at 0 0 0)
+    (property "ki_description" "Decoder 3 to 8 active low outputs" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "DIP?16*" (id 7) (at 0 0 0)
+    (property "ki_fp_filters" "DIP?16*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "74LS138_1_0"
+    (symbol "CC1_74LS138_1_0"
       (pin input line (at -5.08 -17.78 0) (length 5.08)
         (name "A" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -896,18 +893,18 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS138_1_1"
+    (symbol "CC1_74LS138_1_1"
       (rectangle (start 0 0) (end 20.32 -27.94)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
   )
-  (symbol "74LS244" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "CC1_74LS244" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 17.78 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS244" (id 1) (at 17.78 5.08 0)
+    (property "Value" "CC1_74LS244" (id 1) (at 17.78 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 7.62 -19.05 0)
@@ -925,7 +922,7 @@
     (property "ki_fp_filters" "DIP?20*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "74LS244_1_0"
+    (symbol "CC1_74LS244_1_0"
       (polyline
         (pts
           (xy 6.985 -20.32)
@@ -1026,18 +1023,18 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS244_1_1"
+    (symbol "CC1_74LS244_1_1"
       (rectangle (start 0 0) (end 15.24 -38.1)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
   )
-  (symbol "74LS273" (in_bom yes) (on_board yes)
+  (symbol "CC1_74LS273" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "74LS273" (id 1) (at 0 0 0)
+    (property "Value" "CC1_74LS273" (id 1) (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -1055,7 +1052,7 @@
     (property "ki_fp_filters" "DIP?20* SO?20* SOIC?20*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "74LS273_1_0"
+    (symbol "CC1_74LS273_1_0"
       (pin input inverted (at -2.54 -20.32 90) (length 5.08)
         (name "~{CL}" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -1137,18 +1134,18 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "74LS273_1_1"
+    (symbol "CC1_74LS273_1_1"
       (rectangle (start -7.62 15.24) (end 7.62 -15.24)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
   )
-  (symbol "78M12" (in_bom yes) (on_board yes)
+  (symbol "CC1_78M12" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "78M12" (id 1) (at 0 7.62 0)
+    (property "Value" "CC1_78M12" (id 1) (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical" (id 2) (at -50.8 43.18 0)
@@ -1157,13 +1154,13 @@
     (property "Datasheet" "https://datasheetspdf.com/pdf-file/1045179/STMicroelectronics/78M12/1" (id 3) (at -50.8 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "78M12_0_1"
+    (symbol "CC1_78M12_0_1"
       (rectangle (start -5.08 2.54) (end 5.08 -6.35)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "78M12_1_1"
+    (symbol "CC1_78M12_1_1"
       (pin power_in line (at 0 -11.43 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
@@ -1178,11 +1175,11 @@
       )
     )
   )
-  (symbol "79L05" (extends "78M12")
+  (symbol "CC1_79L05" (extends "CC1_78M12")
     (property "Reference" "U" (id 0) (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "79L05" (id 1) (at 0 7.62 0)
+    (property "Value" "CC1_79L05" (id 1) (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at -50.8 43.18 0)
@@ -1192,11 +1189,11 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "79M12" (extends "78M12")
+  (symbol "CC1_79M12" (extends "CC1_78M12")
     (property "Reference" "U" (id 0) (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "79M12" (id 1) (at 0 7.62 0)
+    (property "Value" "CC1_79M12" (id 1) (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at -50.8 43.18 0)
@@ -1206,11 +1203,11 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "CoCo_1_Keyboard_Matrix" (in_bom yes) (on_board yes)
+  (symbol "CC1_CoCo_1_Keyboard_Matrix" (in_bom yes) (on_board yes)
     (property "Reference" "KYBD" (id 0) (at 50.8 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "CoCo_1_Keyboard_Matrix" (id 1) (at 50.8 5.08 0)
+    (property "Value" "CC1_CoCo_1_Keyboard_Matrix" (id 1) (at 50.8 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 50.8 2.54 0)
@@ -1219,7 +1216,7 @@
     (property "Datasheet" "" (id 3) (at 50.8 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "CoCo_1_Keyboard_Matrix_0_0"
+    (symbol "CC1_CoCo_1_Keyboard_Matrix_0_0"
       (polyline
         (pts
           (xy 0 -81.28)
@@ -1564,7 +1561,7 @@
         (effects (font (size 2.54 2.54)))
       )
     )
-    (symbol "CoCo_1_Keyboard_Matrix_0_1"
+    (symbol "CC1_CoCo_1_Keyboard_Matrix_0_1"
       (polyline
         (pts
           (xy 0 -5.08)
@@ -2657,7 +2654,7 @@
         (fill (type none))
       )
     )
-    (symbol "CoCo_1_Keyboard_Matrix_1_1"
+    (symbol "CC1_CoCo_1_Keyboard_Matrix_1_1"
       (pin passive line (at -5.08 -5.08 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -2724,11 +2721,11 @@
       )
     )
   )
-  (symbol "Connector" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "CC1_Connector" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "E" (id 0) (at 0 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Connector" (id 1) (at 0 6.35 0)
+    (property "Value" "CC1_Connector" (id 1) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at -1.27 0 0)
@@ -2746,7 +2743,7 @@
     (property "ki_fp_filters" "Connector*:*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Connector_0_1"
+    (symbol "CC1_Connector_0_1"
       (polyline
         (pts
           (xy -2.54 0)
@@ -2768,7 +2765,7 @@
         (fill (type none))
       )
     )
-    (symbol "Connector_1_1"
+    (symbol "CC1_Connector_1_1"
       (pin passive line (at -6.35 0 0) (length 3.81)
         (name "" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
@@ -2779,11 +2776,11 @@
       )
     )
   )
-  (symbol "DIN-4" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "CC1_DIN-4" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "P" (id 0) (at 5.334 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "DIN-4" (id 1) (at 0 -6.35 0)
+    (property "Value" "CC1_DIN-4" (id 1) (at 0 -6.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -2801,7 +2798,7 @@
     (property "ki_fp_filters" "DIN*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "DIN-4_0_1"
+    (symbol "CC1_DIN-4_0_1"
       (arc (start -5.08 0) (mid -3.8609 -3.3364) (end -0.762 -5.08)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -2875,7 +2872,7 @@
         (fill (type none))
       )
     )
-    (symbol "DIN-4_1_1"
+    (symbol "CC1_DIN-4_1_1"
       (pin passive line (at -7.62 0 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -2894,11 +2891,11 @@
       )
     )
   )
-  (symbol "DIN-5" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "CC1_DIN-5" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "P" (id 0) (at 10.16 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "DIN-5" (id 1) (at 7.62 13.97 0)
+    (property "Value" "CC1_DIN-5" (id 1) (at 7.62 13.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -2916,7 +2913,7 @@
     (property "ki_fp_filters" "DIN*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "DIN-5_0_1"
+    (symbol "CC1_DIN-5_0_1"
       (arc (start -5.08 0) (mid -3.8609 -3.3364) (end -0.762 -5.08)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -3004,7 +3001,7 @@
         (fill (type none))
       )
     )
-    (symbol "DIN-5_1_1"
+    (symbol "CC1_DIN-5_1_1"
       (pin passive line (at -10.16 -2.54 0) (length 5.08)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -3027,11 +3024,11 @@
       )
     )
   )
-  (symbol "DIN-6" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+  (symbol "CC1_DIN-6" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "P" (id 0) (at 3.175 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "DIN-6" (id 1) (at 4.445 -4.445 0)
+    (property "Value" "CC1_DIN-6" (id 1) (at 4.445 -4.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -3049,7 +3046,7 @@
     (property "ki_fp_filters" "DIN*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "DIN-6_0_1"
+    (symbol "CC1_DIN-6_0_1"
       (arc (start -5.08 0) (mid -3.8609 -3.3364) (end -0.762 -5.08)
         (stroke (width 0.254) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -3149,7 +3146,7 @@
         (fill (type none))
       )
     )
-    (symbol "DIN-6_1_1"
+    (symbol "CC1_DIN-6_1_1"
       (pin passive line (at -7.62 -2.54 0) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -3176,11 +3173,11 @@
       )
     )
   )
-  (symbol "LM339" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
+  (symbol "CC1_LM339" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "LM339" (id 1) (at 0 -5.08 0)
+    (property "Value" "CC1_LM339" (id 1) (at 0 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at -1.27 2.54 0)
@@ -3201,7 +3198,7 @@
     (property "ki_fp_filters" "SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*" (id 7) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "LM339_1_1"
+    (symbol "CC1_LM339_1_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -3238,7 +3235,7 @@
         (number "5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "LM339_2_1"
+    (symbol "CC1_LM339_2_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -3275,7 +3272,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "LM339_3_1"
+    (symbol "CC1_LM339_3_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -3312,7 +3309,7 @@
         (number "13" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "LM339_4_1"
+    (symbol "CC1_LM339_4_1"
       (polyline
         (pts
           (xy -5.08 5.08)
@@ -3349,7 +3346,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "LM339_5_1"
+    (symbol "CC1_LM339_5_1"
       (rectangle (start -4.445 3.81) (end -0.635 -3.81)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -3364,11 +3361,11 @@
       )
     )
   )
-  (symbol "MC1372" (in_bom yes) (on_board yes)
+  (symbol "CC1_MC1372" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 10.16 -34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MC1372" (id 1) (at 10.16 -31.75 0)
+    (property "Value" "CC1_MC1372" (id 1) (at 10.16 -31.75 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-14_W7.62mm_LongPads" (id 2) (at -44.45 11.43 0)
@@ -3377,13 +3374,13 @@
     (property "Datasheet" "https://console5.com/techwiki/images/f/f8/MC1372.pdf" (id 3) (at -44.45 11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MC1372_0_1"
+    (symbol "CC1_MC1372_0_1"
       (rectangle (start 0 0) (end 24.13 -43.18)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "MC1372_1_1"
+    (symbol "CC1_MC1372_1_1"
       (pin output clock (at -5.08 -10.16 0) (length 5.08)
         (name "CLK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -3442,11 +3439,11 @@
       )
     )
   )
-  (symbol "MC14050B" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "CC1_MC14050B" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MC14050B" (id 1) (at 0 7.62 0)
+    (property "Value" "CC1_MC14050B" (id 1) (at 0 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads" (id 2) (at 3.81 -19.05 0)
@@ -3455,7 +3452,7 @@
     (property "Datasheet" "https://www.onsemi.com/pdf/datasheet/mc14049b-d.pdf" (id 3) (at 5.08 -16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MC14050B_1_1"
+    (symbol "CC1_MC14050B_1_1"
       (polyline
         (pts
           (xy -3.81 5.08)
@@ -3475,7 +3472,7 @@
         (number "3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14050B_2_1"
+    (symbol "CC1_MC14050B_2_1"
       (polyline
         (pts
           (xy -3.81 5.08)
@@ -3495,7 +3492,7 @@
         (number "5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14050B_3_1"
+    (symbol "CC1_MC14050B_3_1"
       (polyline
         (pts
           (xy -3.81 5.08)
@@ -3515,7 +3512,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14050B_4_1"
+    (symbol "CC1_MC14050B_4_1"
       (polyline
         (pts
           (xy -3.81 5.08)
@@ -3535,7 +3532,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14050B_5_1"
+    (symbol "CC1_MC14050B_5_1"
       (polyline
         (pts
           (xy -3.81 5.08)
@@ -3555,7 +3552,7 @@
         (number "12" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14050B_6_1"
+    (symbol "CC1_MC14050B_6_1"
       (polyline
         (pts
           (xy -3.81 5.08)
@@ -3575,7 +3572,7 @@
         (number "15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14050B_7_1"
+    (symbol "CC1_MC14050B_7_1"
       (rectangle (start -2.54 -5.08) (end 2.54 5.08)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -3596,11 +3593,11 @@
       )
     )
   )
-  (symbol "MC14529B" (in_bom yes) (on_board yes)
+  (symbol "CC1_MC14529B" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 8.89 -13.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MC14529B" (id 1) (at 8.89 -11.43 0)
+    (property "Value" "CC1_MC14529B" (id 1) (at 8.89 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads" (id 2) (at 41.91 29.21 0)
@@ -3612,7 +3609,7 @@
     (property "ki_locked" "" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (symbol "MC14529B_1_1"
+    (symbol "CC1_MC14529B_1_1"
       (rectangle (start 0 0) (end 16.51 -25.4)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -3650,7 +3647,7 @@
         (number "7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14529B_2_1"
+    (symbol "CC1_MC14529B_2_1"
       (rectangle (start 0 0) (end 16.51 -25.4)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -3680,7 +3677,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MC14529B_3_1"
+    (symbol "CC1_MC14529B_3_1"
       (rectangle (start 0 0) (end 5.08 -10.16)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
@@ -3695,11 +3692,11 @@
       )
     )
   )
-  (symbol "MC6809E" (in_bom yes) (on_board yes)
+  (symbol "CC1_MC6809E" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 13.97 -46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MC6809E" (id 1) (at 13.97 -44.45 0)
+    (property "Value" "CC1_MC6809E" (id 1) (at 13.97 -44.45 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm_LongPads" (id 2) (at 16.51 12.7 0)
@@ -3708,13 +3705,13 @@
     (property "Datasheet" "https://colorcomputerarchive.com/repo/Documents/Datasheets/MC6809E%20HMOS%208%20Bit%20Microprocessor%20(Motorola)%20(OCR).pdf" (id 3) (at 16.51 12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MC6809E_0_1"
+    (symbol "CC1_MC6809E_0_1"
       (rectangle (start 0 0) (end 27.94 -92.71)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "MC6809E_1_1"
+    (symbol "CC1_MC6809E_1_1"
       (pin power_in line (at 13.97 -97.79 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -3877,11 +3874,11 @@
       )
     )
   )
-  (symbol "MC6821" (in_bom yes) (on_board yes)
+  (symbol "CC1_MC6821" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 11.43 -34.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MC6821" (id 1) (at 11.43 -31.75 0)
+    (property "Value" "CC1_MC6821" (id 1) (at 11.43 -31.75 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm_Socket_LongPads" (id 2) (at 15.24 -137.16 0)
@@ -3890,13 +3887,13 @@
     (property "Datasheet" "https://colorcomputerarchive.com/repo/Documents/Datasheets/MC6821%20NMOS%20Peripheral%20Interface%20Adapter%20(Motorola).pdf" (id 3) (at 16.51 -134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MC6821_0_1"
+    (symbol "CC1_MC6821_0_1"
       (rectangle (start 0 0) (end 22.86 -68.58)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "MC6821_1_1"
+    (symbol "CC1_MC6821_1_1"
       (pin power_in line (at 11.43 -73.66 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -4059,11 +4056,11 @@
       )
     )
   )
-  (symbol "MC6847" (in_bom yes) (on_board yes)
+  (symbol "CC1_MC6847" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 13.97 -40.64 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MC6847" (id 1) (at 13.97 -38.1 0)
+    (property "Value" "CC1_MC6847" (id 1) (at 13.97 -38.1 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm_LongPads" (id 2) (at 13.97 -109.22 0)
@@ -4072,13 +4069,13 @@
     (property "Datasheet" "https://colorcomputerarchive.com/repo/Documents/Datasheets/MC6847%20MOS%20Video%20Display%20Generator%20(Motorola).pdf" (id 3) (at 13.97 -111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MC6847_0_1"
+    (symbol "CC1_MC6847_0_1"
       (rectangle (start 0 0) (end 27.94 -88.9)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "MC6847_1_1"
+    (symbol "CC1_MC6847_1_1"
       (pin power_in line (at 13.97 -93.98 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -4241,11 +4238,11 @@
       )
     )
   )
-  (symbol "MC6883" (in_bom yes) (on_board yes)
+  (symbol "CC1_MC6883" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 12.7 -46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MC6883" (id 1) (at 12.7 -44.45 0)
+    (property "Value" "CC1_MC6883" (id 1) (at 12.7 -44.45 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-40_W15.24mm_LongPads" (id 2) (at -25.4 43.18 0)
@@ -4254,13 +4251,13 @@
     (property "Datasheet" "https://colorcomputerarchive.com/repo/Documents/Datasheets/MC6883%20Synchronous%20Address%20Multiplexer%20Advance%20Information%20(Motorola).pdf" (id 3) (at -25.4 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MC6883_0_1"
+    (symbol "CC1_MC6883_0_1"
       (rectangle (start 0 -85.09) (end 25.4 0)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "MC6883_1_1"
+    (symbol "CC1_MC6883_1_1"
       (pin input line (at -5.08 -15.24 0) (length 5.08)
         (name "A11" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -4427,11 +4424,11 @@
       )
     )
   )
-  (symbol "MCM4027A" (in_bom yes) (on_board yes)
+  (symbol "CC1_MCM4027A" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 8.89 -16.51 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MCM4027A" (id 1) (at 8.89 -13.97 0)
+    (property "Value" "CC1_MCM4027A" (id 1) (at 8.89 -13.97 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-16_W7.62mm_LongPads" (id 2) (at -11.43 12.7 0)
@@ -4440,13 +4437,13 @@
     (property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-110/DSAP0010002.pdf" (id 3) (at -13.97 10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MCM4027A_0_1"
+    (symbol "CC1_MCM4027A_0_1"
       (rectangle (start 0 0) (end 17.78 -27.94)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "MCM4027A_1_1"
+    (symbol "CC1_MCM4027A_1_1"
       (pin power_in line (at 5.08 -33.02 90) (length 5.08)
         (name "VBB" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -4513,11 +4510,11 @@
       )
     )
   )
-  (symbol "MCM68A364" (in_bom yes) (on_board yes)
+  (symbol "CC1_MCM68A364" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 11.43 -21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MCM68A364" (id 1) (at 11.43 -19.05 0)
+    (property "Value" "CC1_MCM68A364" (id 1) (at 11.43 -19.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_DIP:DIP-24_W15.24mm_LongPads" (id 2) (at 11.43 -21.59 0)
@@ -4526,13 +4523,13 @@
     (property "Datasheet" "https://github.com/omega9380/Retro-Schematics/raw/main/Tandy/TRS-80/Tandy%20TRS-80%20Color%20Computer%201/Documents/MCM68A364%20Datasheet.pdf" (id 3) (at 11.43 -21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "MCM68A364_0_1"
+    (symbol "CC1_MCM68A364_0_1"
       (rectangle (start 0 0) (end 22.86 -40.64)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "MCM68A364_1_1"
+    (symbol "CC1_MCM68A364_1_1"
       (pin input line (at -5.08 -19.05 0) (length 5.08)
         (name "A7" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -4631,11 +4628,11 @@
       )
     )
   )
-  (symbol "R7336-1" (in_bom yes) (on_board yes)
+  (symbol "CC1_R7336-1" (in_bom yes) (on_board yes)
     (property "Reference" "K" (id 0) (at 10.16 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "R7336-1" (id 1) (at 10.16 10.16 0)
+    (property "Value" "CC1_R7336-1" (id 1) (at 10.16 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 13.97 12.7 0)
@@ -4644,7 +4641,7 @@
     (property "Datasheet" "" (id 3) (at 13.97 12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "R7336-1_0_1"
+    (symbol "CC1_R7336-1_0_1"
       (polyline
         (pts
           (xy 0 0)
@@ -4762,7 +4759,7 @@
         (fill (type outline))
       )
     )
-    (symbol "R7336-1_1_1"
+    (symbol "CC1_R7336-1_1_1"
       (pin passive line (at -5.08 0 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
@@ -4785,11 +4782,11 @@
       )
     )
   )
-  (symbol "RESISTOR_PAK" (in_bom yes) (on_board yes)
+  (symbol "CC1_RESISTOR_PAK" (in_bom yes) (on_board yes)
     (property "Reference" "R" (id 0) (at 0 3.175 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "RESISTOR_PAK" (id 1) (at 0 5.715 0)
+    (property "Value" "CC1_RESISTOR_PAK" (id 1) (at 0 5.715 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 3.175 0)
@@ -4798,7 +4795,7 @@
     (property "Datasheet" "" (id 3) (at 0 3.175 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "RESISTOR_PAK_0_1"
+    (symbol "CC1_RESISTOR_PAK_0_1"
       (polyline
         (pts
           (xy 2.54 0)
@@ -4841,7 +4838,7 @@
         (fill (type none))
       )
     )
-    (symbol "RESISTOR_PAK_1_1"
+    (symbol "CC1_RESISTOR_PAK_1_1"
       (pin passive line (at -7.62 0 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -4851,7 +4848,7 @@
         (number "2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "RESISTOR_PAK_2_1"
+    (symbol "CC1_RESISTOR_PAK_2_1"
       (pin passive line (at -7.62 0 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
@@ -4861,7 +4858,7 @@
         (number "4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "RESISTOR_PAK_3_1"
+    (symbol "CC1_RESISTOR_PAK_3_1"
       (pin passive line (at -7.62 0 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
@@ -4871,7 +4868,7 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "RESISTOR_PAK_4_1"
+    (symbol "CC1_RESISTOR_PAK_4_1"
       (pin passive line (at -7.62 0 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "7" (effects (font (size 1.27 1.27))))
@@ -4881,7 +4878,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "RESISTOR_PAK_5_1"
+    (symbol "CC1_RESISTOR_PAK_5_1"
       (pin passive line (at 7.62 0 180) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
@@ -4892,11 +4889,11 @@
       )
     )
   )
-  (symbol "TRFM_COCO1" (in_bom yes) (on_board yes)
+  (symbol "CC1_TRFM_COCO1" (in_bom yes) (on_board yes)
     (property "Reference" "T" (id 0) (at 7.62 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "TRFM_COCO1" (id 1) (at 7.62 5.08 0)
+    (property "Value" "CC1_TRFM_COCO1" (id 1) (at 7.62 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 7.62 2.54 0)
@@ -4905,7 +4902,7 @@
     (property "Datasheet" "" (id 3) (at 7.62 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "TRFM_COCO1_0_1"
+    (symbol "CC1_TRFM_COCO1_0_1"
       (polyline
         (pts
           (xy 3.81 -31.75)
@@ -5331,7 +5328,7 @@
         (fill (type outline))
       )
     )
-    (symbol "TRFM_COCO1_1_1"
+    (symbol "CC1_TRFM_COCO1_1_1"
       (pin passive line (at -5.08 -31.75 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
@@ -5370,11 +5367,11 @@
       )
     )
   )
-  (symbol "Test_Point" (in_bom yes) (on_board yes)
+  (symbol "CC1_Test_Point" (in_bom yes) (on_board yes)
     (property "Reference" "TP" (id 0) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Test_Point" (id 1) (at 0 8.89 0)
+    (property "Value" "CC1_Test_Point" (id 1) (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 8.89 0)
@@ -5383,7 +5380,7 @@
     (property "Datasheet" "" (id 3) (at 0 8.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "Test_Point_0_1"
+    (symbol "CC1_Test_Point_0_1"
       (polyline
         (pts
           (xy -1.27 5.08)
@@ -5394,18 +5391,18 @@
         (fill (type none))
       )
     )
-    (symbol "Test_Point_1_1"
+    (symbol "CC1_Test_Point_1_1"
       (pin passive line (at 0 0 90) (length 3.81)
         (name "" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
       )
     )
   )
-  (symbol "UM1285-8 RF Modulator" (in_bom yes) (on_board yes)
+  (symbol "CC1_UM1285-8 RF Modulator" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 16.51 -5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "UM1285-8 RF Modulator" (id 1) (at 16.51 -2.54 0)
+    (property "Value" "CC1_UM1285-8 RF Modulator" (id 1) (at 16.51 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 16.51 -5.08 0)
@@ -5414,7 +5411,7 @@
     (property "Datasheet" "https://amigan.yatho.com/UM1285-8.pdf" (id 3) (at -33.02 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "UM1285-8 RF Modulator_0_1"
+    (symbol "CC1_UM1285-8 RF Modulator_0_1"
       (rectangle (start 0 -22.86) (end 33.02 0)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -5424,7 +5421,7 @@
         (fill (type none))
       )
     )
-    (symbol "UM1285-8 RF Modulator_1_1"
+    (symbol "CC1_UM1285-8 RF Modulator_1_1"
       (pin power_in line (at 6.35 -27.94 90) (length 5.08)
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
@@ -5447,11 +5444,11 @@
       )
     )
   )
-  (symbol "UNKNOWN_H_SYMBOL_COCO" (in_bom yes) (on_board yes)
+  (symbol "CC1_UNKNOWN_H_SYMBOL_COCO" (in_bom yes) (on_board yes)
     (property "Reference" "H" (id 0) (at 6.35 3.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "UNKNOWN_H_SYMBOL_COCO" (id 1) (at 6.35 6.35 0)
+    (property "Value" "CC1_UNKNOWN_H_SYMBOL_COCO" (id 1) (at 6.35 6.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 6.35 3.81 0)
@@ -5460,7 +5457,7 @@
     (property "Datasheet" "" (id 3) (at 6.35 3.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "UNKNOWN_H_SYMBOL_COCO_0_0"
+    (symbol "CC1_UNKNOWN_H_SYMBOL_COCO_0_0"
       (polyline
         (pts
           (xy 0 0)
@@ -5511,11 +5508,11 @@
       )
     )
   )
-  (symbol "VM-28" (in_bom yes) (on_board yes)
+  (symbol "CC1_VM-28" (in_bom yes) (on_board yes)
     (property "Reference" "CR" (id 0) (at 3.81 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "VM-28" (id 1) (at 3.81 5.08 0)
+    (property "Value" "CC1_VM-28" (id 1) (at 3.81 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 3.81 2.54 0)
@@ -5524,7 +5521,7 @@
     (property "Datasheet" "" (id 3) (at 3.81 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "VM-28_0_0"
+    (symbol "CC1_VM-28_0_0"
       (text "~" (at 1.27 -7.62 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -5532,13 +5529,13 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "VM-28_0_1"
+    (symbol "CC1_VM-28_0_1"
       (rectangle (start 0 0) (end 7.62 -8.89)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
     )
-    (symbol "VM-28_1_1"
+    (symbol "CC1_VM-28_1_1"
       (pin passive line (at -5.08 -7.62 0) (length 5.08)
         (name "" (effects (font (size 1.27 1.27))))
         (number "" (effects (font (size 1.27 1.27))))
