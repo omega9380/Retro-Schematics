@@ -473,7 +473,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "74LS373_U4H_1_0"
-      (pin input inverted (at 12.7 -12.7 180) (length 5.08)
+      (pin input inverted (at 12.7 -7.62 180) (length 5.08)
         (name "OE" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
@@ -481,7 +481,7 @@
         (name "GND" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at -12.7 -12.7 0) (length 5.08)
+      (pin input line (at -12.7 -7.62 0) (length 5.08)
         (name "LE" (effects (font (size 1.27 1.27))))
         (number "11" (effects (font (size 1.27 1.27))))
       )
