@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv=Content-Type content=text/html; charset=iso-8859-1>
+<title>National Semiconductor DS009478 datasheet pdf</title>
+<meta name="Description" content="All the part names for which the file DS009478.PDF is a datasheet">
+
+<style type="text/css">
+body
+{
+ background-image:url('/electr.jpg');
+ background-repeat:repeat;
+ background-attachment:fixed
+}
+a:visited {  font-family: Arial;  color: #0000FF; text-decoration: none; font-size: 12px; line-height: 1.6  }
+a:link    {  font-family: Arial;  color: #0000FF; text-decoration: none; font-size: 12px; line-height: 1.6 }
+a:hover   {  font-family: Arial;  color: #ff0000; text-decoration: underline; font-size: 12px; line-height: 1.6 }
+
+#myDIV {
+  transform-origin: 0 0;
+  -ms-transform-origin: 0 0; /* IE 9 */
+  -webkit-transform-origin: 0 0; /* Safari 3-8 */
+}
+
+@media screen and (max-width:359px) { #myDIV { transform: scale(0.44); -ms-transform: scale(0.44); -webkit-transform: scale(0.44);   } }
+@media screen and (min-width:360px) and (max-width:450px) { #myDIV { transform: scale(0.5); -ms-transform: scale(0.5); -webkit-transform: scale(0.5);  } }
+@media screen and (min-width:451px) and (max-width:544px) { #myDIV { transform: scale(0.62); -ms-transform: scale(0.62); -webkit-transform: scale(0.62);  } }
+@media screen and (min-width:545px) and (max-width:640px) { #myDIV { transform: scale(0.74); -ms-transform: scale(0.74); -webkit-transform: scale(0.74);  } }
+@media screen and (min-width:641px) and (max-width:730px) { #myDIV { transform: scale(0.87); -ms-transform: scale(0.87); -webkit-transform: scale(0.87);  } }
+
+#partname {
+  font-size:10px;
+  word-spacing:0.6px;
+  text-align:center;
+}
+
+#partname > a {
+  color:#666666;
+  font-size:10px;
+  font-family:Arial;
+  line-height:2;
+}
+
+#QuickJump {
+  font-size:10px;
+  font-family:Arial;
+  word-spacing:1.5px;
+  text-align:center;
+}
+
+#QuickJump > a {
+  font-size:10px;
+  font-family:Arial;
+  line-height:2;
+}
+
+#TabelMare {
+ width:100%;
+ min-width:320px;
+ max-width:728px;
+ padding:0px; 
+ border-spacing:2px;
+ border:1px solid black;
+ background-color: #FFffff;
+ font-family:arial;
+ color:#ee0000;
+ font-size:18px;
+}
+
+.TabelLista td {
+  border:1px solid #555555;
+  padding:5px;
+  
+}
+
+.TabelLista {
+  background:#eeeeee;
+  width:98%;
+  border:1px solid #555555;
+  padding:0px; 
+  border-spacing:0px;
+  Color:black;
+  font-size:13px;
+}
+
+.TabelLista thead tr th {
+  background: #444444;
+  color:White;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  
+}
+
+.TabelLista tbody tr:hover {
+  background: #FFdd99;
+}
+
+#SrcTable {
+  width:100%;
+  min-width:320px;
+  max-width:728px;
+  padding:2px;
+  border-spacing:2px;
+  background-color:#FFCC00;
+}
+
+#TabQJ {
+  width:100%;
+  min-width:320px;
+  max-width:728px;
+  border:1px solid #FFCC00;
+  padding:0px;
+  border-spacing:0px;
+  background-color: #FFffff;
+}
+
+#Fisier {
+  color:blue;
+  font-size:16px;
+}
+
+#logo {
+  width:296px;
+  height:51px;
+}
+
+#BaraLimba {
+  line-height: 1.3;
+  font-weight: 900;
+}
+
+@media screen and (max-width:700px) {
+
+  #Fisier {    
+    font-size:12px;
+  }
+ .TabelLista { 
+   width:100%;  
+ }
+}
+
+
+h1 {
+  color:black;
+  font-family:Times New Roman;
+  font-size:32px;
+}
+
+</style>
+
+</head>
+
+<body text=#000000 bgcolor=#FFFFFF link=#0000EE vlink=#551A8B alink=#FF0000 bottommargin=0 leftmargin=0 marginheight=0 marginwidth=0 rightmargin=0 topmargin=0 onresize="myFunction()" onload="myFunction()">
+
+<center>
+
+<table style="width:100%;	min-width:320px; border:0px solid red; padding:0px; border-spacing:0px;">
+<tr BGCOLOR=#0060a4>
+<td style="padding-left: 8px; padding-top:11px; padding-bottom:3px;"><img src="/datasheetcatalog.png" border=0 alt="DatasheetCatalog.com Logo" id="logo"></td>
+</tr></table>
+
+<table style="width:100%;	min-width:320px; border:0px solid red; padding:0px; border-spacing:0px; background-color: #FFCC00;">
+ <tr  bgcolor=#007db7 height=23>
+   <td style="font-size:12px; padding-top:2px;">
+ 
+ <b>
+ <font color=ffffff>&nbsp;&nbsp;|&nbsp;&nbsp;
+ <a href="http://www.datasheetcatalog.com" title="Home">
+ <font color=#ffffff>Home</font></a>
+ &nbsp;&nbsp;|&nbsp;&nbsp;
+ 
+ <a href="/other_manufacturer.html" title="All manufacturers on www.datasheetcatalog.com">
+ <font color=#ffffff>All manufacturers</font></a>
+ &nbsp;&nbsp;|&nbsp;&nbsp;
+ 
+ <a href="/function/" title="Electronic Components by functions">
+ <font color=#ffffff>By Category</font></a>
+ &nbsp;&nbsp;|&nbsp;&nbsp;
+</font></b>
+
+<table border=0 cellpadding=0 cellspacing=2 style="display:inline-block; float:right;" id="BaraLimba"><tr align=center>
+<td bgcolor=#FFFFFF width="35"><a href="http://www.datasheetcatalog.net/" title="Version française" style="color:#CC4c04;">FR</a></td>
+<td bgcolor=#FFFFFF width="35"><a href="http://www.datasheetcatalog.net/de/" title="Deutsche Version" style="color:#CC4c04;">DE</a></td>
+<td bgcolor=#FFFFFF width="35"><a href="http://www.datasheetcatalog.net/es/" title="Versión española" style="color:#CC4c04;">ES</a></td>
+<td bgcolor=#FFFFFF width="35"><a href="http://www.datasheetcatalog.net/it/" title="Versione italiana" style="color:#CC4c04;">IT</a></td>
+<td bgcolor=#FFFFFF width="35"><a href="http://www.datasheetcatalog.net/pt/" title="Versão portuguese" style="color:#CC4c04;">PT</a></td>
+<td bgcolor=#FFFFFF width="35"><a href="http://www.datasheetcatalog.net/ru/" title="Russian Version" style="color:#CC4c04;">RU</a></td>
+</tr></table>
+
+</td></tr></table>
+ 
+  
+ <script language="JavaScript">
+ <!-- hide
+ 
+ function onEnter( evt, frm ) {
+ var keyCode = null;
+ 
+ if( evt.which ) {
+ keyCode = evt.which;
+ } else if( evt.keyCode ) {
+ keyCode = evt.keyCode;
+ }
+ if( 13 == keyCode ) {
+ frm.btnEnter.click();
+ return false;
+ }
+ return true;
+ }
+ 
+ // -->
+ </script>
+  
+<br>
+<div style="width:100%;	min-width:320px; max-width:736px;">
+<table id="SrcTable"><tr><td>
+<FORM NAME="searchForm" onSubmit="return valForm()">
+<font face=arial><font size=-1><center><b><i><label for="myText" style="display:inline-block; padding-bottom:3px;">Part name, description or manufacturer contain:</label> </i></b>&nbsp;&nbsp;&nbsp; <div style="display:inline-block; padding-top:1px;"><input type="search" id="myText" name="myText" size="28" onkeypress="return onEnter(event,this.form);" >
+<input type="button" value="Search" name="btnEnter" onclick="parent.location='http://search.datasheetcatalog.net/key/'+document.searchForm.myText.value.toUpperCase().replace(/\s/g,'%20').replace(/#/g,'%23')"></div>
+</center></font></font></form></td></tr></table>
+ 
+<table id="TabQJ"> 
+<tr><td id="QuickJump">Quick jump to:  &nbsp; <a href="/catalog/p15000.shtml">1N</a>&nbsp; <a href="/catalog/p64120.shtml">2N</a>&nbsp; <a href="/catalog/p72640.shtml">2SA</a>&nbsp; <a href="/catalog/p76240.shtml">2SC</a>&nbsp; <a href="/catalog/p127760.shtml">74</a>&nbsp; <a href="/catalog/p175040.shtml">AD</a>&nbsp; <a href="/catalog/p266840.shtml">BA</a>&nbsp; <a href="/catalog/p272240.shtml">BC</a>&nbsp; <a href="/catalog/p278560.shtml">BD</a>&nbsp; <a href="/catalog/p286280.shtml">BF</a>&nbsp; <a href="/catalog/p303480.shtml">BU</a>&nbsp; <a href="/catalog/p373320.shtml">CXA</a>&nbsp; <a href="/catalog/p609640.shtml">HCF</a>&nbsp; <a href="/catalog/p717640.shtml">IRF</a>&nbsp; <a href="/catalog/p762960.shtml">KA</a>&nbsp; <a href="/catalog/p769240.shtml">KIA</a>&nbsp; <a href="/catalog/p786000.shtml">LA</a>&nbsp; <a href="/catalog/p798400.shtml">LM</a>&nbsp; <a href="/catalog/p1032880.shtml">MC</a>&nbsp; <a href="/catalog/p1201640.shtml">NE</a>&nbsp; <a href="/catalog/p1460800.shtml">ST</a>&nbsp; <a href="/catalog/p1475560.shtml">STK</a>&nbsp; <a href="/catalog/p1510200.shtml">TDA</a>&nbsp; <a href="/catalog/p1527000.shtml">TL</a>&nbsp; <a href="/catalog/p1589280.shtml">UA</a></td></tr></table>
+
+<table  style="width:100%;	min-width:320px; max-width:728px; border:1px solid #FFCC00; padding:0px; border-spacing:0px; background-color: #FFffff;"><tr>
+<td id="partname">
+&nbsp; <a href="/datasheets_pdf/L/M/3/1/LM317.shtml" title="LM317 datasheet pdf" alt="LM317 datasheet pdf">LM317</a>
+&nbsp; <a href="/datasheets_pdf/L/M/3/3/LM339.shtml" title="LM339 datasheet pdf" alt="LM339 datasheet pdf">LM339</a>
+&nbsp; <a href="/datasheets_pdf/M/A/X/2/MAX232.shtml" title="MAX232 datasheet pdf" alt="MAX232 datasheet pdf">MAX232</a>
+&nbsp; <a href="/datasheets_pdf/N/E/5/5/NE555.shtml" title="NE555 datasheet pdf" alt="NE555 datasheet pdf">NE555</a>
+&nbsp; <a href="/datasheets_pdf/L/M/3/2/LM324.shtml" title="LM324 datasheet pdf" alt="LM324 datasheet pdf">LM324</a>
+&nbsp; <a href="/datasheets_pdf/8/0/5/1/8051.shtml" title="8051 datasheet pdf" alt="8051 datasheet pdf">8051</a>
+&nbsp; <a href="/datasheets_pdf/7/8/0/5/7805.shtml" title="7805 datasheet pdf" alt="7805 datasheet pdf">7805</a>
+&nbsp; <a href="/datasheets_pdf/2/N/3/0/2N3055.shtml" title="2N3055 datasheet pdf" alt="2N3055 datasheet pdf">2N3055</a>
+&nbsp; <a href="/datasheets_pdf/L/M/3/5/LM358.shtml" title="LM358 datasheet pdf" alt="LM358 datasheet pdf">LM358</a>
+&nbsp; <a href="/datasheets_pdf/2/N/2/2/2N2222.shtml" title="2N2222 datasheet pdf" alt="2N2222 datasheet pdf">2N2222</a>
+&nbsp; <a href="/datasheets_pdf/7/4/L/S/74LS138.shtml" title="74LS138 datasheet pdf" alt="74LS138 datasheet pdf">74LS138</a>
+&nbsp; <a href="/datasheets_pdf/T/D/A/7/TDA7294.shtml" title="TDA7294 datasheet pdf" alt="TDA7294 datasheet pdf">TDA7294</a>
+&nbsp; <a href="/datasheets_pdf/T/L/4/3/TL431.shtml" title="TL431 datasheet pdf" alt="TL431 datasheet pdf">TL431</a>
+&nbsp; <a href="/datasheets_pdf/I/R/F/5/IRF540.shtml" title="IRF540 datasheet pdf" alt="IRF540 datasheet pdf">IRF540</a>
+&nbsp; <a href="/datasheets_pdf/1/N/4/1/1N4148.shtml" title="1N4148 datasheet pdf" alt="1N4148 datasheet pdf">1N4148</a>
+&nbsp; <a href="http://search.datasheetcatalog.net/key/G45A">G45A</a>
+</td></tr></table>
+
+<br>
+<div id="DIV2" style="width:99%;	min-width:320px; max-width:725px; overflow: hidden; height: 45vw; max-height:324px;">
+<div id="myDIV">
+   <iframe src="//search.supplyframe.com/partner/35/DSCAT_725x323_SRP_Search_Page/electronic+components" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" style="width: 725px; height: 324px;"></iframe>
+</div></div>
+
+<script>
+  var divu2 = document.getElementById("DIV2");
+  var theCSSprop = window.getComputedStyle(divu2, null).getPropertyValue("width");
+  var latime = theCSSprop.substring(0,theCSSprop.length-2);
+  var nou = latime * 0.447;
+  divu2.style.height = nou + "px";
+  document.getElementById("myDIV").getElementsByTagName("IFRAME")[0].title= "AdSF"; 
+</script>
+
+
+
+<main>
+<br>
+
+<center>
+<table id="TabelMare"><tr><td>
+The requested file:<br><span id="Fisier">http://pdf.datasheetcatalog.com/datasheet/nationalsemiconductor/DS009478.PDF</span><br>is the data sheet for the following electronic components:<center><hr>
+<h1>National Semiconductor</h1>
+<table class="TabelLista"><thead><tr><th>#</th><th>Part Name</th><th>Description</th></tr></thead>
+<tr><td>1</td><td><a href="http://www.datasheetcatalog.com/datasheets_pdf/5/4/F/1/54F138.shtml" title="Download or view 54F138 datasheet">54F138</a></td><td>1-of-8 Decoder/Demultiplexer</td></tr>
+<tr><td>2</td><td><a href="http://www.datasheetcatalog.com/datasheets_pdf/7/4/F/1/74F138.shtml" title="Download or view 74F138 datasheet">74F138</a></td><td>1-of-8 Decoder/Demultiplexer</td></tr>
+</table></center>
+<br>
+Select the part name and then you can download the datasheet in PDF format.<br><br><br>
+</td></tr></table>
+
+<br>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive_DS_Com -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8095160907454010"
+     data-ad-slot="7119071456"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</center>
+</main>
+
+<br><br>
+
+<p style="padding:8px; font-family:Arial, Helvetica, sans-serif; font-size:10px; color:black;">&copy; 2022  &nbsp;&nbsp; <a href="http://www.datasheetcatalog.com/" style="color:black;">www.datasheetcatalog.com</a></p>
+</div>
+</center>
+<br>
+
+<script>
+
+function myFunction() {
+var winW = 800, winH = 600;
+if (document.body && document.body.offsetWidth) {
+ winW = document.body.offsetWidth;
+ winH = document.body.offsetHeight;
+}
+if (document.compatMode=='CSS1Compat' &&
+    document.documentElement &&
+    document.documentElement.offsetWidth ) {
+ winW = document.documentElement.offsetWidth;
+ winH = document.documentElement.offsetHeight;
+}
+if (window.innerWidth && window.innerHeight) {
+ winW = window.innerWidth;
+ winH = window.innerHeight;
+}
+
+myDIV = document.getElementById("myDIV");
+
+if (winW>=738) {
+  myDIV.style.transform = "scale(1)";
+  myDIV.style.WebkitTransform = "scale(1)";
+  myDIV.style.msTransform = "scale(1)";
+  
+  document.getElementById("DIV2").style.height = "324px"; 
+
+ }
+else
+ {
+  scara=winW/738;  
+  myDIV.style.transform = "scale(" + scara.toString()+")";
+  myDIV.style.WebkitTransform = "scale(" + scara.toString()+")";
+  myDIV.style.msTransform = "scale(" + scara.toString()+")";
+  
+  myDIV.style.transformOrigin = "0 0";  
+  myDIV.style.WebkitTransformOrigin = "0 0";
+  myDIV.style.msTransformOrigin = "0 0";
+  inaltime=324*scara+1;
+  document.getElementById("DIV2").style.height = inaltime.toString()+"px";
+ }
+}
+
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-756193-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body></html>
