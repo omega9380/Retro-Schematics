@@ -1031,7 +1031,7 @@
       )
       (rectangle (start 0 0) (end 19.05 -30.48)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "74LS244_J_1_0"
@@ -1152,7 +1152,7 @@
       )
       (rectangle (start 0 0) (end 19.05 -30.48)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
     )
     (symbol "74LS244_L_1_0"
