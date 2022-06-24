@@ -1,0 +1,35 @@
+ 68000-cpu-dip.png        16 Kb    	Pinout of the 68000 as fitted in the A500
+  68000.gif                8 Kb    	Another picture of the 68000
+  68000PLCC.gif            3 Kb    	PLCC version of the 68000, as fitted to the A600
+  68030PGA.gif            11 Kb    	68030 PGA pinout as fitted to some accelerators
+  8361-Agnus-dip.png      20 Kb    	The Original Agnus pinout.
+  8362-denise-dip.png     24 Kb    	Early Denise part is in the A500/1000?
+  8364-paula-dip.png      21 Kb    	DIP Paula as in the A500/2000
+  8370-agnus-plcc.png     15 Kb    	Early PLCC Agnus pinout
+  8372b-agnus_pin.txt    791 bytes 
+  8520-CIA-dip.png        16 Kb    	The ubiquitous 8520, DIP version (socketed)
+  Agnus.gif                6 Kb    	Agnus again
+  Alice.gif                4 Kb    	Alice 
+  Budgie.gif               6 Kb    	The System chip.
+  Buster.gif               4 Kb    	The Zorro III chip.
+  CIA-A.gif                9 Kb    	
+  CIA-B.gif               11 Kb    
+  Denise.gif               6 Kb    	Part of the graphics chipset.
+  FatAgnus8370.gif         4 Kb    	Part of the graphics chipset.
+  FatAgnus8372.gif         5 Kb    
+  Gary.gif                 5 Kb    	GAte ARraY general glue logic in the A500
+  Gayle.gif                5 Kb    	AGA version of Gary
+  Lisa.gif                 4 Kb    	AGA version of Denise, display controller.
+  Paula.gif                8 Kb    	The Sound chip. DIP verion as in the A500/1000/2000
+  ROM.gif                  7 Kb    	Pinout of the old 128K ROM
+  aa-alice.png            28 Kb    	AGA Alice 
+  aa-gayle-plcc.png       29 Kb    	AGA GAYLE pinout
+  aa-lisa-plcc.png        28 Kb    	Lisa
+  budgie-notes.txt         2 Kb    	Some note I compiled on Budgie' operation
+  dip-package-pic.gif      3 Kb    	Gernal drawing for a DIP package.
+  gary.txt                12 Kb    	some info on what gary does.
+  pga-package-pic.gif      7 Kb    	The rest are general package drawings.
+  plcc-package-pic.gif     4 Kb    
+  pqfp-package-pic.gif     3 Kb    
+  tsop-package-pic.gif     4 Kb    
+

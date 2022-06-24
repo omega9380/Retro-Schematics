@@ -1,0 +1,42 @@
+
+Budgie is a chip that serves as the main data path element in the 
+A1200 system. It provides the interface between the 32-bit processor 
+bus and the 32-bit chip memory bus, generates the RAS and CAS 
+select signals from the RAS and CAS timing signals that Alice 
+supports. It also provides a 16-bit bus buffer which can be used for 
+either an expansion bus or in this case the PCMCIA port data buffer. It 
+also includes some miscellaneous functions, notably processor clock 
+generation and 28Mhz/Genlock clock multiplexing.
+It is implemented as a CMOS ASIC in a 128 Pin SMT package.
+AdvancedAmiga 1200 System   11
+Internally, the data path element is similar to Bridgette or the bus 
+buffer/bridge logic implemented on the A3000 system. Data can be 
+routed to/from the 32-bit processor port to either half of the 32-bit chip 
+memory bus. Data can be bridged from the low order half of the chip 
+memory bus to the high order half to support 16-bit Amiga chip 
+accesses. Data read from memory is latched to meet the processor 
+data hold requirements. CAS select logic is used to prevent contention 
+when bridging the two halves of the chip bus.
+
+The spare 16-bit expansion port(used for PCMCIA duty in the A1200) 
+provides a simple path to/from the 16-bit processor port. The direction 
+is dependent on the X-NOR of R_W and _BGACK signals to support 
+either expansion bus or several purpose buffer requirements.
+
+The memory decoding takes the RAS and CAS timing signals 
+provided by Alice and the multiplexed address bus and generates 
+appropriate selection for 32-bit accesses. It also uses A1/A0 and 
+SIZ1/SIZ0 on processor accesses to do the right decoding there.
+
+It supports 2-banks of 32 bit memory with 9-bit addressing for a total of 
+2M-bytes of chip memory. RAS selection is used for bank selection, 
+CAS selection is used for byte write control and to avoid contention on 
+bridged reads. Refrcsh is done with CAS before RAS and the logic 
+must assert all RAS and CAS signals during refresh cycles.
+
+The processor clock generation simply X-NORS the 7MHz and *CDAC 
+clocks to generate a 14MHz processor clock. The 28MHz/Genlock 
+clock multiplexor is a simple 2 input multiplexor. It has no connection 
+with the rest of the logic and can be used for other functions if desired. 
+The CCK/4 output is provided for the PAL color burst generation 
+circuitry.
