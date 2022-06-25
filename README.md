@@ -17,6 +17,6 @@ Note please that I am one guy, doing this on my own time.  So please don't expec
 
 If you like what I'm doing and want to help out, please branch and add to the repo if you have the skill, time, and inclination!
 
-And if you want to help me out more directly, you can [buy me a root beer!](https://www.paypal.com/donate/?business=R7WGZ5GDXG62L&no_recurring=0&currency_code=USD)
+And if you want to help me out more directly, you can buy me a root beer:  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=R7WGZ5GDXG62L&no_recurring=0&currency_code=USD)
 
 Any questions, comments, praises, worship, threats, or random thoughts, please DM me on Discord, I'm OmegaPrime#3078.
