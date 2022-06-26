@@ -236,7 +236,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "_RS_Commodore_Amiga_1000"
+    ]
   },
   "meta": {
     "filename": "Amiga 1000.kicad_pro",
