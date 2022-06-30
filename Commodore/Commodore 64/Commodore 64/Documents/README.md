@@ -1,0 +1,1 @@
+Most of the images and documents here were found on the [Zimmers website](http://www.zimmers.net/).  I have saved them to this Documents folder while I work on the schematic for the C64, but I will remove them when the schematic is complete.  Please follow the link to Zimmers to get these files in the future!
