@@ -31,7 +31,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Commodore_64"
+    ]
   },
   "meta": {
     "filename": "Commodore 64.kicad_pro",
