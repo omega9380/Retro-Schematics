@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Tandy_TRS80_CoCo_1")(type "KiCad")(uri "${KIPRJMOD}/Tandy_TRS80_CoCo_1.kicad_sym")(options "")(descr ""))
+)
