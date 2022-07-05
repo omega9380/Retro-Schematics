@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "Commodore_64")(type "KiCad")(uri "${KIPRJMOD}/Commodore_64.kicad_sym")(options "")(descr ""))
-)
