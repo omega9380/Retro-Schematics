@@ -236,10 +236,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Commodore_64_Schematic_251138"
+    ]
   },
   "meta": {
-    "filename": "Commodore 64.kicad_pro",
+    "filename": "Commodore 64 - Schematic 251138 for PCB Assy 250407.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -310,7 +312,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "D:/Documents/GitHub/Retro-Schematics/PDF Schematics/",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -320,6 +322,10 @@
     [
       "60363bae-5b49-4311-8fc2-e6dc0eb1e360",
       ""
+    ],
+    [
+      "84e90845-f615-4903-b671-6a17f804507e",
+      "RF MODULATOR"
     ]
   ],
   "text_variables": {}
