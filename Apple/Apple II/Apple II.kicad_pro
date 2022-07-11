@@ -29,11 +29,214 @@
   "cvpcb": {
     "equivalence_files": []
   },
+  "erc": {
+    "erc_exclusions": [],
+    "meta": {
+      "version": 0
+    },
+    "pin_map": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    "rule_severities": {
+      "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
+      "bus_label_syntax": "error",
+      "bus_to_bus_conflict": "error",
+      "bus_to_net_conflict": "error",
+      "different_unit_footprint": "error",
+      "different_unit_net": "error",
+      "duplicate_reference": "error",
+      "duplicate_sheet_names": "error",
+      "extra_units": "error",
+      "global_label_dangling": "warning",
+      "hier_label_mismatch": "error",
+      "label_dangling": "error",
+      "lib_symbol_issues": "warning",
+      "multiple_net_names": "warning",
+      "net_not_bus_member": "warning",
+      "no_connect_connected": "warning",
+      "no_connect_dangling": "warning",
+      "pin_not_connected": "error",
+      "pin_not_driven": "error",
+      "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
+      "similar_labels": "warning",
+      "unannotated": "error",
+      "unit_value_mismatch": "error",
+      "unresolved_variable": "error",
+      "wire_dangling": "error"
+    }
+  },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "Apple II"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "Apple II.kicad_pro",
@@ -76,9 +279,136 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
+    "annotate_start_num": 0,
+    "drawing": {
+      "default_line_thickness": 6.0,
+      "default_text_size": 50.0,
+      "field_names": [],
+      "intersheets_ref_own_page": false,
+      "intersheets_ref_prefix": "",
+      "intersheets_ref_short": false,
+      "intersheets_ref_show": false,
+      "intersheets_ref_suffix": "",
+      "junction_size_choice": 3,
+      "label_size_ratio": 0.375,
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
+    },
     "legacy_lib_dir": "",
-    "legacy_lib_list": []
+    "legacy_lib_list": [],
+    "meta": {
+      "version": 1
+    },
+    "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
+    "page_layout_descr_file": "",
+    "plot_directory": "",
+    "spice_adjust_passive_values": false,
+    "spice_external_command": "spice \"%I\"",
+    "subpart_first_id": 65,
+    "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "c3902508-9cbf-4221-8816-e721151828d5",
+      ""
+    ],
+    [
+      "92202372-038e-48b4-830a-caf1d0278357",
+      "Clock Generator (All Revisions)"
+    ],
+    [
+      "b722f885-37e8-4e69-8ada-41ea40103755",
+      "Video Address Generator (All Revisions)"
+    ],
+    [
+      "a647b45b-30f4-431e-a907-a774192eae00",
+      "Memory Address Pt 1 of 2 (Rev 0,1)"
+    ],
+    [
+      "7fe45ea4-ab8c-4f05-ba73-c14720793755",
+      "Memory Address Pt 1 of 2 (Rev 7,RFI)"
+    ],
+    [
+      "4053bc79-12ed-4646-8b91-61b7063879f2",
+      "Memory Address Pt 2 of 2 (All Revisions)"
+    ],
+    [
+      "4246e48d-eeb2-41ee-8964-7b99241b9414",
+      "RAM (All Revisions)"
+    ],
+    [
+      "028b12dc-b57a-4093-aed4-90c48c4525ca",
+      "Microprocessor (Rev 0,1,7)"
+    ],
+    [
+      "aa10d860-7805-4c1f-a72e-e6404f00ec45",
+      "Microprocessor (Rev RFI)"
+    ],
+    [
+      "1c2431ff-4901-4b9b-90b6-c8d8988666ca",
+      "ROM (All Revisions)"
+    ],
+    [
+      "f1cd624a-ffc9-452f-930c-765fc3668ea3",
+      "Peripheral IO (All Revisions)"
+    ],
+    [
+      "af1737ac-bf88-41a0-b0e1-aba4b8b63103",
+      "On-board IO Pt 1 of 2 (All Revisions)"
+    ],
+    [
+      "9bfd0f0b-f11e-4c6d-b621-a774478639c8",
+      "On-board IO Pt 2 of 2 (All Revisions)"
+    ],
+    [
+      "3eba43ed-bdf0-445e-aa04-211c31e88832",
+      "Video Generator Pt 1 of 2 (Rev 0)"
+    ],
+    [
+      "a47d4b12-ffb2-4ee8-b629-bf273668e53a",
+      "Video Generator Pt 1 of 2 (Rev 1)"
+    ],
+    [
+      "272b1aab-31fc-4db6-a536-2d2f46d9f027",
+      "Video Generator Pt 1 of 2 (Rev 7,RFI)"
+    ],
+    [
+      "1a1e84a8-d891-4423-b147-6280802e8119",
+      "Video Generator Pt 2 of 2 (Rev 0)"
+    ],
+    [
+      "24f5f1ba-726c-4b71-893a-5c9186e02ec6",
+      "Video Generator Pt 2 of 2 (Rev 1)"
+    ],
+    [
+      "5a6070fd-5e7a-4d1d-8e9a-5c80ac9791b9",
+      "Video Generator Pt 2 of 2 (Rev 7)"
+    ],
+    [
+      "4658acf5-b804-4b35-8904-65106f556a70",
+      "Video Generator Pt 2 of 2 (Rev RFI)"
+    ],
+    [
+      "9245b2f7-f511-4596-91fe-0c4ac659b56e",
+      "Single Piece Keyboard"
+    ],
+    [
+      "f5504320-4375-40ef-b378-f4f248f2e022",
+      "Two-piece Keyboard"
+    ],
+    [
+      "ed28504e-225b-4bae-aa80-8973f82bfc4e",
+      "Power Supply"
+    ]
+  ],
   "text_variables": {}
 }

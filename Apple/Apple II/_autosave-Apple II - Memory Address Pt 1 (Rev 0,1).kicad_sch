@@ -1,0 +1,18 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c5a8379c-61cd-4991-94ba-c8e4f190dac6)
+
+  (paper "A4")
+
+  (title_block
+    (date "2022-07-11")
+    (company "Apple Computers, Inc.")
+    (comment 2 "https://github.com/omega9380/Retro-Schematics")
+    (comment 3 "Replication by Omega9380 - July 2022")
+    (comment 4 "Original schematic by Apple Computers")
+  )
+
+  (lib_symbols
+  )
+
+)
