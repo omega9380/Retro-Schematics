@@ -8,10 +8,10 @@
     (title "Apple II Schematic Cover Sheet")
     (date "2022-07-11")
     (company "Apple Computers, Inc.")
+    (comment 1 "Original schematic by Apple Computers")
     (comment 2 "https://github.com/omega9380/Retro-Schematics")
     (comment 3 "Replication by Omega9380 - July 2022")
     (comment 4 "Source: The Apple II Circuit Description by W. Gayler")
-    (comment 5 "Original schematic by Apple Computers")
   )
 
   (lib_symbols
@@ -412,6 +412,9 @@
     (path "/b722f885-37e8-4e69-8ada-41ea40103755/1ce65220-98f8-4736-a0c1-452b68337b58"
       (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/24252754-4fa6-440e-b9be-e9971ac8e83d"
+      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
+    )
     (path "/92202372-038e-48b4-830a-caf1d0278357/36a5c700-b2e0-4a81-9ade-a6a089750858"
       (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
     )
@@ -448,6 +451,12 @@
     (path "/92202372-038e-48b4-830a-caf1d0278357/a16ac786-502c-46aa-aabb-f83bb0cb9533"
       (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/a80bc154-f69b-4b64-96b3-109828a07d19"
+      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/acc84201-5722-4989-8ba1-5890e5eb6a4a"
+      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
+    )
     (path "/92202372-038e-48b4-830a-caf1d0278357/b2884943-5bfd-4fea-9e71-1142edb4c33d"
       (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
     )
@@ -466,6 +475,12 @@
     (path "/92202372-038e-48b4-830a-caf1d0278357/c4ed3df1-84a9-426d-9d20-000d507e42b3"
       (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/d32c9507-5eb1-4a53-b52f-a11687a2c64a"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/d47c6a1e-344b-4af2-aacd-b12ebef9d842"
+      (reference "#PWR?") (unit 1) (value "Earth") (footprint "")
+    )
     (path "/92202372-038e-48b4-830a-caf1d0278357/f8a5706c-91b5-47a9-826a-81a2d7d34d4c"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
@@ -479,6 +494,9 @@
       (reference "A2") (unit 1) (value "74LS00") (footprint "")
     )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/36e0b38e-6145-4eee-b7b0-ec80b85be2e4"
+      (reference "A2") (unit 2) (value "74LS00") (footprint "")
+    )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/6ad961a8-c462-49a0-95e8-b65003f5701b"
       (reference "A2") (unit 2) (value "74LS00") (footprint "")
     )
     (path "/92202372-038e-48b4-830a-caf1d0278357/736378f8-4947-4007-aecc-19b7eadebb50"
@@ -523,6 +541,9 @@
     (path "/a647b45b-30f4-431e-a907-a774192eae00/15e6a4a9-ef5b-46a4-afae-8d36c5b2bf79"
       (reference "C11") (unit 1) (value "74LS04") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/211bb808-bfcf-41b5-8ce9-7628ecca787f"
+      (reference "C11") (unit 1) (value "74LS04") (footprint "")
+    )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/e670af27-93ab-4bfd-8fca-93168a9be7df"
       (reference "C14") (unit 1) (value "74LS32") (footprint "")
     )
@@ -532,10 +553,16 @@
     (path "/a647b45b-30f4-431e-a907-a774192eae00/4810c58e-ac62-4528-880f-129563ab8645"
       (reference "D2") (unit 2) (value "74LS20") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/4b55f647-d98d-44cc-ab02-bccb5f8bda95"
+      (reference "D2") (unit 2) (value "74LS20") (footprint "")
+    )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/bd8e7662-3a8b-4c20-8c36-a195d974991a"
       (reference "H1") (unit 1) (value "74LS08") (footprint "")
     )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/a23f09f3-3431-49c2-8b77-3be54edc01a0"
+      (reference "H1") (unit 3) (value "74LS08") (footprint "")
+    )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/eeff9952-3d0c-4dd7-8d2b-153832ed41ab"
       (reference "H1") (unit 3) (value "74LS08") (footprint "")
     )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/f15fafa8-29c4-4ebd-8e50-d33e2ddd854d"
@@ -658,6 +685,12 @@
     (path "/92202372-038e-48b4-830a-caf1d0278357/9e616230-8742-46b2-95fc-cc581bec5c1e"
       (reference "R28") (unit 1) (value "1K") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/7e630797-3fe4-4e13-9495-79fa36a71cdf"
+      (reference "R31") (unit 1) (value "1K") (footprint "")
+    )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/11df358f-ed6d-474a-b394-8d23a8c2e6bb"
+      (reference "R32") (unit 1) (value "1K") (footprint "")
+    )
     (path "/b722f885-37e8-4e69-8ada-41ea40103755/4e764d4b-468e-4977-852b-5b806e26bc3b"
       (reference "RA02") (unit 1) (value "1K") (footprint "Resistor_THT:R_Array_SIP9")
     )
@@ -668,6 +701,9 @@
       (reference "U?") (unit 1) (value "J1_74LS257") (footprint "")
     )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/21f2b6c7-853c-4c71-986f-3f09ba3628d5"
+      (reference "U?") (unit 1) (value "F2_74LS139") (footprint "")
+    )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/2ab68ec3-7c6d-45f4-99f2-fec5dde5a4a7"
       (reference "U?") (unit 1) (value "F2_74LS139") (footprint "")
     )
     (path "/b722f885-37e8-4e69-8ada-41ea40103755/3374be92-ccbd-45e3-a98d-cdf6dd3d6a8d"
@@ -694,11 +730,20 @@
     (path "/b722f885-37e8-4e69-8ada-41ea40103755/d47b28a6-5e81-4e21-a463-9ef55f9ec177"
       (reference "U?") (unit 1) (value "D12_74LS161") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/e5827eff-c03d-4575-a8ec-5eb4c9d49c3e"
+      (reference "U?") (unit 1) (value "C12_74LS257") (footprint "")
+    )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/f69ccd58-bd34-4811-b9bb-6d9a8d4a86d8"
       (reference "U?") (unit 1) (value "E2_74LS139") (footprint "")
     )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/19e8c33f-bc86-4013-9e35-60fe62508ebf"
+      (reference "U?") (unit 2) (value "J1_74LS257") (footprint "")
+    )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/982aa91d-b970-465c-81e8-43cb141efcf8"
       (reference "U?") (unit 2) (value "C1_74LS153") (footprint "")
+    )
+    (path "/7fe45ea4-ab8c-4f05-ba73-c14720793755/a7e02bb5-c66b-4dd5-adb4-f09e0baada41"
+      (reference "U?") (unit 3) (value "C1_74LS153") (footprint "")
     )
     (path "/b722f885-37e8-4e69-8ada-41ea40103755/5b8bf6b6-d3cb-42ef-a832-d96daec5bfe7"
       (reference "U?") (unit 4) (value "74LS04") (footprint "")

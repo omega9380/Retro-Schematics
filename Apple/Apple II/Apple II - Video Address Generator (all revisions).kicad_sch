@@ -9,10 +9,10 @@
     (date "2022-07-11")
     (rev "All")
     (company "Apple Computers, Inc.")
+    (comment 1 "Original schematic by Apple Computers")
     (comment 2 "https://github.com/omega9380/Retro-Schematics")
     (comment 3 "Replication by Omega9380 - July 2022")
     (comment 4 "Source: The Apple II Circuit Description by W. Gayler")
-    (comment 5 "Original schematic by Apple Computers")
   )
 
   (lib_symbols
