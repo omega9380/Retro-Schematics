@@ -2761,8 +2761,8 @@
     (property "Datasheet" "" (id 3) (at 308.61 196.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 2d4a7fc2-0fbd-491a-bfbd-a76d6f013b13))
-    (pin "" (uuid 56716062-bad9-4fbc-b49e-a2bf94e6ec73))
+    (pin "" (uuid f32e3aec-bd33-48a0-982c-9270abb183d3))
+    (pin "" (uuid f32e3aec-bd33-48a0-982c-9270abb183d3))
     (pin "" (uuid f32e3aec-bd33-48a0-982c-9270abb183d3))
   )
 
