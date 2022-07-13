@@ -236,9 +236,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "Apple II"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "Apple II.kicad_pro",
