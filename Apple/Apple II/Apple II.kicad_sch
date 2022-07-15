@@ -1429,6 +1429,9 @@
     (path "/4658acf5-b804-4b35-8904-65106f556a70/f3c66c0e-251d-4828-be6b-a8e5e51d7a55"
       (reference "JP?") (unit 1) (value "13") (footprint "")
     )
+    (path "/9245b2f7-f511-4596-91fe-0c4ac659b56e/697a8d65-1dcd-4193-b695-0b15d840b05f"
+      (reference "KBD?") (unit 1) (value "SPK_SINGLE_PIECE_KEYBOARD") (footprint "")
+    )
     (path "/1a1e84a8-d891-4423-b147-6280802e8119/0fb9922f-cc94-49f8-945c-c11b79b4d6e7"
       (reference "L1") (unit 1) (value "27µH") (footprint "")
     )
@@ -1926,6 +1929,9 @@
     )
     (path "/a647b45b-30f4-431e-a907-a774192eae00/02781d65-2a9f-47fb-bc72-cbbcddef3b5e"
       (reference "U?") (unit 1) (value "J1_74LS257") (footprint "")
+    )
+    (path "/9245b2f7-f511-4596-91fe-0c4ac659b56e/0369412e-ac0c-4978-9582-a6bbe9b3a7f3"
+      (reference "U?") (unit 1) (value "SPK_U5_MM5740") (footprint "")
     )
     (path "/3eba43ed-bdf0-445e-aa04-211c31e88832/05e1a02b-8577-4662-b22e-dcc1bc1b7ad5"
       (reference "U?") (unit 1) (value "A8_74LS257") (footprint "")
