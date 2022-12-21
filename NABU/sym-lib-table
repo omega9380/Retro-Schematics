@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NABU")(type "KiCad")(uri "${KIPRJMOD}/NABU.kicad_sym")(options "")(descr ""))
+)

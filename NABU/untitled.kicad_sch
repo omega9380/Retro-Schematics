@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 9d2fe0b0-7e74-43d4-9d82-41763049536e)
+
+  (paper "A0")
+
+  (title_block
+    (title "NABU PC Schematic Cover Sheet")
+    (date "2022-12-21")
+    (rev "11/16/89")
+    (company "NABU Network Corporation")
+    (comment 1 "Original Schematic by Unknown")
+    (comment 2 "https://github.com/omega9380/Retro-Schematics")
+    (comment 3 "Replication by Omega9380 - December 2022")
+    (comment 4 "Source: NABU Consolidated Documentation v1.0a.pdf by starkscon")
+  )
+
+  (lib_symbols
+  )
+
+)
