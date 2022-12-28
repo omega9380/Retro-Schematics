@@ -35,7 +35,7 @@
     (property "Sheet name" "NABU-02" (id 0) (at 104.14 135.89 0)
       (effects (font (size 2.54 2.54)) (justify bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 86.36 136.4746 0)
+    (property "Sheet file" "NABU-02.kicad_sch" (id 1) (at 86.36 136.4746 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -47,7 +47,7 @@
     (property "Sheet name" "NABU-04" (id 0) (at 104.14 151.13 0)
       (effects (font (size 2.54 2.54)) (justify bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 86.36 151.7146 0)
+    (property "Sheet file" "NABU-04.kicad_sch" (id 1) (at 86.36 151.7146 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -59,7 +59,7 @@
     (property "Sheet name" "NABU-01" (id 0) (at 104.14 128.27 0)
       (effects (font (size 2.54 2.54)) (justify bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 86.36 128.8546 0)
+    (property "Sheet file" "NABU-01.kicad_sch" (id 1) (at 86.36 128.8546 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -71,7 +71,7 @@
     (property "Sheet name" "NABU-06" (id 0) (at 104.14 166.37 0)
       (effects (font (size 2.54 2.54)) (justify bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 86.36 166.9546 0)
+    (property "Sheet file" "NABU-06.kicad_sch" (id 1) (at 86.36 166.9546 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -83,7 +83,7 @@
     (property "Sheet name" "NABU-03" (id 0) (at 104.14 143.51 0)
       (effects (font (size 2.54 2.54)) (justify bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 86.36 144.0946 0)
+    (property "Sheet file" "NABU-03.kicad_sch" (id 1) (at 86.36 144.0946 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -95,7 +95,7 @@
     (property "Sheet name" "NABU-05" (id 0) (at 104.14 158.75 0)
       (effects (font (size 2.54 2.54)) (justify bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 86.36 159.3346 0)
+    (property "Sheet file" "NABU-05.kicad_sch" (id 1) (at 86.36 159.3346 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
   )
@@ -108,5 +108,152 @@
     (path "/233a47c6-1f44-4e95-b348-84a5b6dd51d8" (page "5"))
     (path "/c5e65388-b336-4de7-81ba-e5ebfc5309e6" (page "6"))
     (path "/78542cbc-2b30-49f9-8d6b-704fdaa14dc5" (page "7"))
+  )
+
+  (symbol_instances
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/0bca8d2c-f0b7-4a3c-b132-4f0aa67012f9"
+      (reference "#PWR01") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/6443bed1-5b8f-4ff8-bc59-4529b3c2f693"
+      (reference "#PWR02") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/4a98cc60-21db-4867-9a4a-9fda16db539f"
+      (reference "#PWR03") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/6d243da4-c0c1-424c-99ea-8ac949d14a27"
+      (reference "#PWR04") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/08d2b075-bf9e-42ad-9196-a72230aaabc7"
+      (reference "#PWR05") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/43c9b6b2-c955-4356-bb7b-d98fe0b310e5"
+      (reference "#PWR06") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/2b68fb25-28a7-4d30-9b77-623a8306b7e7"
+      (reference "#PWR07") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/d1293943-a961-4158-a5a9-4ce186a493ec"
+      (reference "#PWR08") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/4487875e-2498-4e4d-9f54-b2bfe32c71ae"
+      (reference "#PWR09") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/cb3356d3-323a-4fd0-956a-fdd42d7310ac"
+      (reference "#PWR010") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/9711fe0b-b9c6-462e-ad8e-604217cb4f7c"
+      (reference "#PWR011") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/02ed072c-d02b-4d3a-8d10-ac0ca0b0db7e"
+      (reference "#PWR012") (unit 1) (value "Earth") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/cb43be03-b6e7-46e1-b383-0eea58f0b8d5"
+      (reference "C1") (unit 1) (value "680pF") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/ec29b101-6b8d-4ae1-98db-c016d11b6240"
+      (reference "C2") (unit 1) (value "680pF") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/b849e456-dbf8-4134-a341-2fc616f6bc52"
+      (reference "J17") (unit 1) (value "4K/8K_JUMPER") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/4b1996f7-9f6d-4fb0-b362-086899a77294"
+      (reference "PH1") (unit 1) (value "NABU-01") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/d3f2407a-2f95-4cb3-8486-ce9cc9803838"
+      (reference "R1") (unit 1) (value "680Ω") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/dd59e2f0-8fe2-454e-958e-8828e549a415"
+      (reference "R2") (unit 1) (value "3.3K") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/104a8466-5da4-4cd1-a272-7e055239a1d4"
+      (reference "R3") (unit 1) (value "3.3K") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/b93943c0-682d-4828-b0c6-da25448a620f"
+      (reference "R4") (unit 1) (value "3.3K") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/07dccd6c-a256-47ea-80ed-9999c3f1bb33"
+      (reference "R5") (unit 1) (value "33Ω") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/c31b87f8-4577-476b-9b3e-c8ee84e2af75"
+      (reference "R6") (unit 1) (value "33Ω") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/8e9fae38-c216-4d7b-8c13-8f2a938d566d"
+      (reference "R7") (unit 1) (value "33Ω") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/804f24a3-a89e-41d5-965c-07a9545c5113"
+      (reference "U9") (unit 1) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/daca4b0d-e1e4-439b-a4f8-ceba76db9cf8"
+      (reference "U28") (unit 1) (value "LS38") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/8eda818a-7699-4741-86a2-223494f98f21"
+      (reference "U37") (unit 1) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/0d5bc356-e097-4653-a0d7-614764b36ab4"
+      (reference "U37") (unit 2) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/07601e42-bee9-42eb-aacf-26761a5ef1bd"
+      (reference "U37") (unit 3) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/4ba4ed42-260e-4232-aef2-0c6d38bddce0"
+      (reference "U38") (unit 1) (value "LP76-57") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/5589536e-5c46-466c-88ca-b24decc18e07"
+      (reference "U39") (unit 1) (value "LS00") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/9040f6d1-e233-4054-a88f-08630a95f6b1"
+      (reference "U39") (unit 2) (value "LS00") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/7ff2c633-4a28-40cf-a988-2abf8851f019"
+      (reference "U42") (unit 1) (value "HM4864-2_(U42..U49)") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/a764a96d-4a5a-4435-88e5-f2f382a81d00"
+      (reference "U50") (unit 1) (value "33Ω") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/036c42a2-e06e-4ed0-ab4a-527e460ae4b9"
+      (reference "U51") (unit 1) (value "LS157_(U51)") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/842a12c2-1506-44c5-8096-cf2ff5e82e29"
+      (reference "U52") (unit 1) (value "LS157_(U52)") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/4d72c598-03ad-459d-bd5b-eb0db7462940"
+      (reference "U53") (unit 1) (value "2732/2764") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/2c429bde-9a18-4153-b30b-be069e573187"
+      (reference "U54") (unit 1) (value "Z80") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/75cbf77a-3cf6-471e-a3aa-1895c095b2bb"
+      (reference "U55") (unit 1) (value "LS260") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/a2d0fad3-bb57-401f-ac48-a15aacfc92eb"
+      (reference "U55") (unit 2) (value "LS260") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/af9c0504-4b9a-47a4-994f-0beda076fd33"
+      (reference "U56") (unit 1) (value "LS04") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/fbae9759-27e0-4e9c-b05d-73f3d3fad091"
+      (reference "U56") (unit 2) (value "LS04") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/b941140d-f951-48d9-8dd3-93ea797c3889"
+      (reference "U56") (unit 3) (value "LS04") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/7409fd51-2f76-4125-be81-3d198ed0651e"
+      (reference "U57") (unit 1) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/a9cfb524-697e-451c-a4cd-07ae15213047"
+      (reference "U57") (unit 2) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/83e91825-3bd9-4b2a-b0a2-4ca04b55ec3e"
+      (reference "U57") (unit 3) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/bce3f250-d02c-41a0-8571-af05bd09ed05"
+      (reference "U57") (unit 4) (value "LS32") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/5d9157f6-2b6d-4b81-a275-0363ff6c320a"
+      (reference "U58") (unit 1) (value "LS74") (footprint "")
+    )
+    (path "/266c7b9e-4dc3-4cf6-bfd9-effd831d9e97/ecd375e7-8cb9-49c8-a7e5-9e4749d7dd90"
+      (reference "U58") (unit 2) (value "LS74") (footprint "")
+    )
   )
 )
