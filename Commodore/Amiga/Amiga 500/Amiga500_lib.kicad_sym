@@ -29,7 +29,7 @@
         (name "CLK" (effects (font (size 1.27 1.27))))
         (number "15" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at -10.16 -97.79 0) (length 5.08)
+      (pin input inverted (at -10.16 -97.79 0) (length 5.08)
         (name "~{VMA}" (effects (font (size 1.27 1.27))))
         (number "19" (effects (font (size 1.27 1.27))))
       )
